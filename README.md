@@ -2,3 +2,5 @@
 
 ## Hi there 👋
 
+
+- AI Agent, RAG, LLM, Langchain
